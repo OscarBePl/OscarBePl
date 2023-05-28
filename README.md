@@ -12,4 +12,4 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://www.linkedin.com/in/oscarbellerinoplaza/)
+[LinkedIn](https://www.linkedin.com/in/oscarbellerinoplaza/)
