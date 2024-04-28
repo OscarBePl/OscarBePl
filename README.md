@@ -2,7 +2,7 @@ Hola 👋, mi nombre es Oscar Bellerino
 
 - 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma (DAM).
 - 📫 Contacto: **melee_oscarbp@hotmail.com**
-- 📖 CV: **https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/fb50b818-39b2-4027-84b9-b628d65fc5f1?view=html**
+- 📖 CV: **https://europa.eu/europass/eportfolio/screen/share/e8a3fbd4-acdd-4cd5-9361-5484f66b65b0?lang=en**
 
 ## Tecnologías:
 <table><tr><td valign="top" width="33%">
