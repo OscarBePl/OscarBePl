@@ -38,11 +38,11 @@ Hola 👋, mi nombre es Oscar Bellerino
 </a> 
 
 
-## Portfoli
+## Portfolio
 
 Este es mi **portfolio** de mis estudios del *Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)*.
 
-Mis estudios de DAM elos realicée en el Instituto Nicolau Copèrnic:
+Mis estudios de DAM los realicé en el Instituto Nicolau Copèrnic:
 
 <img src="https://copernic.cat/images/logos/logo-header.png" width="200" alt="Logo INS Nicolau Copèrnic">
                                                                        
