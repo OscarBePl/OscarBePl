@@ -36,3 +36,26 @@ Hola 👋, mi nombre es Oscar Bellerino
 <a href="https://www.linkedin.com/in/oscarbellerinoplaza/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+
+
+## Portfoli
+
+Este es mi **portfolio** de mis estudios del *Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)*.
+
+Mis estudios de DAM elos realicée en el Instituto Nicolau Copèrnic:
+
+<img src="https://copernic.cat/images/logos/logo-header.png" width="200" alt="Logo INS Nicolau Copèrnic">
+                                                                       
+Los módulos realizados son:
+- [M01: Sistemes Informàtics](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M01-SistemesInformatics)
+- [M02: Bases de Dades](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M02-BasesDeDades)
+- [M03: Programació](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M03-Programacio)
+- [M04: Llenguatges de Marques](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M04-LlenguatgesDeMarques)
+- [M12: Formació i Orientació Laboral](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M12-FOL)
+- [M13: Empresa i Iniciativa Emprenedora](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M13-EiE)
+
+Los proyectos que he hecho son:
+- [Projecte 1: "Playwave" MP3 Player](https://gitlab.com/mp3project-group3/playwave)
+- [Projecte 2: Activities Management ERP](https://gitlab.com/project2team2/activities-management-erp)
+- [Projecte 3: "X-Change" Android application to exchange items.](https://gitlab.com/agargom007/abp_project_3#user-content-sprint-1)
+- [Projecte 4: "Robo-Rebound" Unity 3D Platformer Videogame.](https://gitlab.com/OscarBePl/robo-rebound)
